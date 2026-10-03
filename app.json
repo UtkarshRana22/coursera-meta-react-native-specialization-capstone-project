@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "coursera-react-native-specialization-capstone-project",
+    "slug": "coursera-react-native-specialization-capstone-project",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.courserareactnativespecializationcapstoneproject"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.courserareactnativespecializationcapstoneproject"
+    },
+    "scheme": "coursera-react-native-specialization-capstone-project",
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "The app accesses your photos to let you share them with your friends."
+        }
+      ],
+      [
+        "expo-sqlite",
+        {
+          "enableFTS": true,
+          "useSQLCipher": true,
+          "android": {
+            "enableFTS": false,
+            "useSQLCipher": false
+          },
+          "ios": {
+            "customBuildFlags": ["-DSQLITE_ENABLE_DBSTAT_VTAB=1 -DSQLITE_ENABLE_SNAPSHOT=1"]
+          }
+        }
+      ]
+    ]
+  }
+}

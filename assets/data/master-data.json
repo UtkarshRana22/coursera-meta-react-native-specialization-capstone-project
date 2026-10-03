@@ -1,0 +1,316 @@
+{
+  "categories": [
+    {
+      "id": 2,
+      "name": "Appetizer",
+      "checked": false,
+      "dishes": [
+        {
+          "id": 101,
+          "name": "Buffalo Wings",
+          "reference_name": "buffalo_wings",
+          "description": "Indulge in our signature crispy chicken wings, perfectly seasoned and coated in a golden batter before being fried to perfection. Each wing is then generously tossed in our house-made spicy buffalo sauce, featuring a perfect balance of tangy heat and buttery richness. Served with cooling celery sticks and our creamy blue cheese dipping sauce, these wings deliver the authentic American bar experience. The meat falls off the bone while the skin remains delightfully crispy, creating a textural contrast that keeps you coming back for more.",
+          "price": 12.99,
+          "photo": "https://thumbs.dreamstime.com/b/unhealthy-fast-food-delivery-menu-featuring-assorted-burgers-cheeseburgers-nuggets-french-fries-soda-high-calorie-low-356045884.jpg"
+        },
+        {
+          "id": 102,
+          "name": "Mozzarella Sticks",
+          "reference_name": "mozzarella_sticks",
+          "description": "Experience the ultimate comfort food with our handcrafted mozzarella sticks, made from premium whole-milk mozzarella cheese that's been carefully cut and breaded with seasoned Italian breadcrumbs. Each stick is double-breaded for extra crunch and fried to a beautiful golden brown, ensuring the cheese inside melts to creamy perfection while maintaining that satisfying crispy exterior. Served alongside our signature marinara sauce made from San Marzano tomatoes, fresh basil, and aromatic herbs, these are the perfect shareable appetizer that brings people together around the table.",
+          "price": 9.99,
+          "photo": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700,636"
+        },
+        {
+          "id": 103,
+          "name": "Jalapeño Poppers",
+          "reference_name": "jalapeno_poppers",
+          "description": "Heat up your taste buds with our irresistible jalapeño poppers, featuring fresh jalapeño peppers that are carefully deseeded and stuffed with a rich mixture of cream cheese, aged cheddar, and fresh herbs. Each pepper is then lovingly wrapped in premium thick-cut bacon and secured before being baked to perfection. The result is a harmonious blend of spicy heat from the jalapeños, creamy coolness from the cheese filling, and smoky saltiness from the crispy bacon. These poppers offer the perfect balance of flavors and textures that make them absolutely addictive.",
+          "price": 11.99,
+          "photo": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?semt=ais_hybrid&w=740"
+        },
+        {
+          "id": 104,
+          "name": "Spinach Artichoke Dip",
+          "reference_name": "spinach_artichoke_dip",
+          "description": "Dive into our legendary spinach artichoke dip, a rich and creamy masterpiece that combines fresh baby spinach leaves with tender artichoke hearts in a luxurious blend of cream cheese, sour cream, and three premium cheeses. Seasoned with roasted garlic, fresh herbs, and a hint of lemon zest, this dip is baked until golden and bubbly on top. Served piping hot with crispy tortilla chips and warm pita bread, it's the perfect communal appetizer that disappears as quickly as it arrives at your table.",
+          "price": 10.99,
+          "photo": "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/indian-food-nutrition.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Main",
+      "checked": false,
+      "dishes": [
+        {
+          "id": 201,
+          "name": "Grilled Salmon",
+          "reference_name": "grilled_salmon",
+          "description": "Savor the ocean's finest with our premium Atlantic salmon fillet, sourced from sustainable fisheries and grilled to perfection on our wood-fired grill. Each 8-ounce portion is seasoned with sea salt, cracked black pepper, and fresh herbs before being expertly grilled to achieve a beautiful char while maintaining the fish's natural moisture and delicate flavor. Finished with our signature lemon butter sauce made from European butter, fresh lemon juice, and aromatic herbs, and served alongside seasonal roasted vegetables and your choice of wild rice or herb-roasted potatoes.",
+          "price": 24.99,
+          "photo": "https://thumbs.dreamstime.com/b/unhealthy-fast-food-delivery-menu-featuring-assorted-burgers-cheeseburgers-nuggets-french-fries-soda-high-calorie-low-356045884.jpg"
+        },
+        {
+          "id": 202,
+          "name": "Ribeye Steak",
+          "reference_name": "ribeye_steak",
+          "description": "Indulge in the ultimate steak experience with our 12-ounce prime ribeye, hand-selected from the finest grain-fed beef and aged for 28 days to achieve maximum tenderness and flavor. This marbled masterpiece is seasoned with our signature blend of coarse sea salt, freshly cracked peppercorns, and aromatic herbs before being seared on our high-heat grill to your exact preference. The result is a perfectly caramelized exterior that gives way to a juicy, flavorful interior. Served with your choice of loaded baked potato, garlic mashed potatoes, or seasonal vegetables, and accompanied by our house-made compound butter.",
+          "price": 32.99,
+          "photo": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700,636"
+        },
+        {
+          "id": 203,
+          "name": "Chicken Parmesan",
+          "reference_name": "chicken_parmesan",
+          "description": "Experience Italian-American comfort food at its finest with our classic chicken parmesan, featuring a tender, juicy chicken breast that's been butterflied and pounded to perfection for even cooking. The chicken is coated in seasoned flour, dipped in fresh beaten eggs, and covered with a mixture of Italian breadcrumbs and grated Parmesan cheese before being golden-fried until crispy. Topped with our rich marinara sauce made from vine-ripened tomatoes and melted mozzarella cheese, then baked until bubbly. Served over a bed of al dente spaghetti with additional marinara sauce and fresh basil.",
+          "price": 19.99,
+          "photo": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?semt=ais_hybrid&w=740"
+        },
+        {
+          "id": 204,
+          "name": "Vegetable Lasagna",
+          "reference_name": "vegetable_lasagna",
+          "description": "Celebrate the bounty of fresh vegetables with our hearty vegetable lasagna, a colorful and satisfying dish that layers tender pasta sheets with a medley of seasonal vegetables including zucchini, bell peppers, mushrooms, spinach, and eggplant. Each vegetable is carefully roasted to concentrate its natural flavors before being combined with a rich blend of ricotta, mozzarella, and Parmesan cheeses. The layers are bound together with our house-made tomato sauce, seasoned with fresh basil, oregano, and roasted garlic. Baked until golden and bubbly, this vegetarian masterpiece proves that plant-based cuisine can be both indulgent and deeply satisfying.",
+          "price": 17.99,
+          "photo": "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/indian-food-nutrition.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Desserts",
+      "checked": false,
+      "dishes": [
+        {
+          "id": 301,
+          "name": "Chocolate Lava Cake",
+          "reference_name": "chocolate_lava_cake",
+          "description": "End your meal on a decadent note with our signature chocolate lava cake, a warm and indulgent dessert that's become our most requested finale. Made with premium Belgian dark chocolate and European butter, this individual cake features a perfectly baked exterior that gives way to a molten chocolate center that flows like liquid velvet when you cut into it. Served warm from the oven with a scoop of vanilla bean ice cream and a drizzle of raspberry coulis, each spoonful delivers an intense chocolate experience that melts on your tongue. Dusted with powdered sugar and garnished with fresh berries for the perfect presentation.",
+          "price": 8.99,
+          "photo": "https://thumbs.dreamstime.com/b/unhealthy-fast-food-delivery-menu-featuring-assorted-burgers-cheeseburgers-nuggets-french-fries-soda-high-calorie-low-356045884.jpg"
+        },
+        {
+          "id": 302,
+          "name": "Tiramisu",
+          "reference_name": "tiramisu",
+          "description": "Transport yourself to Italy with our authentic tiramisu, a classic dessert that perfectly balances coffee, cream, and cocoa in every heavenly bite. Made with delicate ladyfinger cookies that are soaked in strong espresso and a touch of coffee liqueur, then layered with a rich mascarpone mixture that's been whipped to silky perfection with farm-fresh eggs and a hint of vanilla. Each layer is carefully assembled and allowed to set overnight, allowing the flavors to meld beautifully. Finished with a generous dusting of premium cocoa powder and served chilled, this traditional Italian dessert offers the perfect ending to any meal.",
+          "price": 7.99,
+          "photo": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700,636"
+        },
+        {
+          "id": 303,
+          "name": "Cheesecake",
+          "reference_name": "cheesecake",
+          "description": "Indulge in our New York-style cheesecake, a rich and creamy dessert that represents the pinnacle of American dessert craftsmanship. Made with premium cream cheese, fresh eggs, and pure vanilla extract, our cheesecake features a smooth, dense texture that melts perfectly on your palate. Built on a buttery graham cracker crust that provides the perfect textural contrast, each slice is topped with our house-made mixed berry compote featuring fresh strawberries, blueberries, and blackberries simmered with a touch of sugar and lemon zest. Served chilled and garnished with a dollop of fresh whipped cream and a sprig of mint.",
+          "price": 6.99,
+          "photo": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?semt=ais_hybrid&w=740"
+        },
+        {
+          "id": 304,
+          "name": "Ice Cream Sundae",
+          "reference_name": "ice_cream_sundae",
+          "description": "Relive childhood memories with our classic ice cream sundae, a delightful dessert that combines simplicity with indulgence. Starting with three generous scoops of premium vanilla bean ice cream made from the finest dairy cream and real vanilla beans, we top it with our warm house-made hot fudge sauce that's rich, glossy, and perfectly sweet. Crowned with a mountain of fresh whipped cream, chopped toasted nuts, and a bright red maraschino cherry, this sundae is served in a classic glass bowl with a long spoon for the full nostalgic experience. Perfect for sharing or enjoying all to yourself.",
+          "price": 5.99,
+          "photo": "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/indian-food-nutrition.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Starters",
+      "checked": false,
+      "dishes": [
+        {
+          "id": 401,
+          "name": "Caesar Salad",
+          "reference_name": "caesar_salad",
+          "description": "Begin your meal with our timeless Caesar salad, a restaurant classic that showcases the perfect harmony of crisp romaine lettuce, creamy dressing, and savory toppings. Each leaf of romaine is carefully washed and chilled before being tossed with our house-made Caesar dressing, prepared tableside with anchovy fillets, fresh garlic, lemon juice, Dijon mustard, and raw egg yolk for authentic flavor and texture. Topped with freshly grated Parmigiano-Reggiano cheese and house-made croutons that are cut from day-old bread and toasted with garlic butter until golden and crispy. Available with grilled chicken, shrimp, or salmon for a more substantial meal.",
+          "price": 8.99,
+          "photo": "https://thumbs.dreamstime.com/b/unhealthy-fast-food-delivery-menu-featuring-assorted-burgers-cheeseburgers-nuggets-french-fries-soda-high-calorie-low-356045884.jpg"
+        },
+        {
+          "id": 402,
+          "name": "Soup of the Day",
+          "reference_name": "soup_of_the_day",
+          "description": "Warm your soul with our daily soup creation, carefully crafted by our chef using the freshest seasonal ingredients and traditional cooking techniques. Each day brings a new culinary adventure, from hearty vegetable soups brimming with garden-fresh produce to rich, slow-simmered bone broths that have been cooking for hours to develop deep, complex flavors. Whether it's a classic tomato basil soup made with vine-ripened tomatoes and fresh herbs, a rustic minestrone loaded with vegetables and beans, or a creamy butternut squash soup with a hint of warming spices, each bowl is served piping hot with crusty artisan bread and herb butter.",
+          "price": 6.99,
+          "photo": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700,636"
+        },
+        {
+          "id": 403,
+          "name": "Bruschetta",
+          "reference_name": "bruschetta",
+          "description": "Transport your taste buds to the Italian countryside with our authentic bruschetta, featuring thick slices of rustic Italian bread that are grilled until golden and crispy, then rubbed with fresh garlic cloves while still warm. Each slice is topped with a vibrant mixture of ripe Roma tomatoes that have been diced and marinated with fresh basil leaves, extra virgin olive oil, balsamic vinegar, and a touch of sea salt. The tomatoes are allowed to macerate to develop their full flavor before being spooned generously onto the warm bread. Finished with a drizzle of premium balsamic glaze and fresh basil leaves for an authentic Italian antipasto experience.",
+          "price": 9.99,
+          "photo": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?semt=ais_hybrid&w=740"
+        },
+        {
+          "id": 404,
+          "name": "Caprese Salad",
+          "reference_name": "caprese_salad",
+          "description": "Celebrate the simple elegance of Italian cuisine with our Caprese salad, a beautiful presentation that showcases the finest ingredients in their purest form. Fresh mozzarella di bufala is sliced thick and alternated with ripe heirloom tomatoes in various colors, creating a stunning visual display that's as pleasing to the eye as it is to the palate. Each slice is carefully arranged and garnished with fresh basil leaves that have been hand-picked from our herb garden. The salad is finished with a drizzle of aged balsamic vinegar that's been reduced to a glossy glaze, premium extra virgin olive oil, and a sprinkle of flaky sea salt and freshly cracked black pepper.",
+          "price": 10.99,
+          "photo": "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/indian-food-nutrition.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sides",
+      "checked": false,
+      "dishes": [
+        {
+          "id": 501,
+          "name": "French Fries",
+          "reference_name": "french_fries",
+          "description": "Enjoy the perfect french fry experience with our hand-cut russet potatoes that are prepared fresh daily and twice-fried to achieve the ideal combination of crispy exterior and fluffy interior. Each potato is carefully selected for quality, then cut into uniform strips and soaked in cold water to remove excess starch before being blanched in small batches at a lower temperature to cook the interior. The second frying at a higher temperature creates that coveted golden crust while maintaining the light, airy texture inside. Seasoned immediately with coarse sea salt while hot, these fries are served piping hot and make the perfect accompaniment to any meal.",
+          "price": 4.99,
+          "photo": "https://thumbs.dreamstime.com/b/unhealthy-fast-food-delivery-menu-featuring-assorted-burgers-cheeseburgers-nuggets-french-fries-soda-high-calorie-low-356045884.jpg"
+        },
+        {
+          "id": 502,
+          "name": "Garlic Bread",
+          "reference_name": "garlic_bread",
+          "description": "Indulge in our aromatic garlic bread, made from fresh Italian bread that's sliced thick and generously spread with our house-made garlic butter. We combine premium European butter with fresh garlic cloves that have been minced and sautéed until fragrant, then mixed with fresh parsley, oregano, and a hint of sea salt. Each slice is carefully buttered and baked in our ovens until the edges are golden and crispy while the center remains soft and warm. The result is a perfect balance of crispy texture and rich, savory flavor that makes an ideal accompaniment to pasta dishes or simply enjoyed on its own as a satisfying side.",
+          "price": 3.99,
+          "photo": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700,636"
+        },
+        {
+          "id": 503,
+          "name": "Coleslaw",
+          "reference_name": "coleslaw",
+          "description": "Refresh your palate with our classic coleslaw, made from the freshest cabbage and carrots that are julienned to the perfect size for optimal texture and flavor distribution. Our signature creamy dressing combines mayonnaise, apple cider vinegar, a touch of sugar, and celery seed to create the perfect balance of tangy and sweet flavors. The vegetables are tossed with the dressing and allowed to marinate, allowing the flavors to meld while maintaining the crisp texture that makes coleslaw so refreshing. This traditional side dish provides a cooling contrast to rich or spicy main courses and adds a satisfying crunch to any meal.",
+          "price": 3.99,
+          "photo": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?semt=ais_hybrid&w=740"
+        },
+        {
+          "id": 504,
+          "name": "Roasted Vegetables",
+          "reference_name": "roasted_vegetables",
+          "description": "Celebrate the natural flavors of seasonal vegetables with our medley of roasted vegetables, carefully selected based on what's fresh and at peak flavor. Each vegetable is cut to uniform size to ensure even cooking, then tossed with premium extra virgin olive oil, fresh herbs from our garden, and a sprinkle of sea salt and freshly ground black pepper. Roasted at high heat to caramelize the natural sugars and develop deep, complex flavors while maintaining a tender-crisp texture. The selection might include colorful bell peppers, zucchini, yellow squash, red onions, carrots, and Brussels sprouts, creating a beautiful and nutritious accompaniment that complements any main course perfectly.",
+          "price": 5.99,
+          "photo": "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/indian-food-nutrition.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Continental",
+      "checked": false,
+      "dishes": [
+        {
+          "id": 601,
+          "name": "Beef Bourguignon",
+          "reference_name": "beef_bourguignon",
+          "description": "Experience the epitome of French cuisine with our traditional beef bourguignon, a slow-braised masterpiece that transforms humble ingredients into an elegant and sophisticated dish. Premium beef chuck is cut into generous portions and seared until beautifully caramelized, then slowly braised in a rich Burgundy wine sauce with aromatic vegetables including pearl onions, carrots, and mushrooms. The dish is enhanced with a bouquet garni of fresh thyme, bay leaves, and parsley, creating layers of complex flavors that develop during the long, slow cooking process. Served with creamy mashed potatoes or egg noodles to soak up the luxurious sauce, this classic French comfort food represents hours of careful preparation and attention to detail.",
+          "price": 26.99,
+          "photo": "https://thumbs.dreamstime.com/b/unhealthy-fast-food-delivery-menu-featuring-assorted-burgers-cheeseburgers-nuggets-french-fries-soda-high-calorie-low-356045884.jpg"
+        },
+        {
+          "id": 602,
+          "name": "Chicken Cordon Bleu",
+          "reference_name": "chicken_cordon_bleu",
+          "description": "Savor the elegance of classic French cooking with our chicken cordon bleu, a sophisticated dish that showcases traditional European techniques and premium ingredients. A tender chicken breast is carefully butterflied and pounded to an even thickness, then filled with thin slices of premium ham and imported Swiss cheese before being rolled and secured. The stuffed chicken is then coated in seasoned flour, dipped in beaten eggs, and covered with fine breadcrumbs before being pan-seared until golden and finished in the oven. The result is a beautiful presentation with melted cheese and ham at the center, surrounded by juicy chicken and a crispy golden exterior. Served with a light cream sauce and seasonal vegetables.",
+          "price": 22.99,
+          "photo": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700,636"
+        },
+        {
+          "id": 603,
+          "name": "Pasta Carbonara",
+          "reference_name": "pasta_carbonara",
+          "description": "Indulge in the Roman classic pasta carbonara, a deceptively simple dish that relies on perfect technique and premium ingredients to create its signature creamy texture without using cream. Fresh spaghetti is cooked al dente and tossed with crispy pancetta that's been rendered until golden and aromatic. The magic happens when farm-fresh egg yolks are combined with freshly grated Pecorino Romano and Parmigiano-Reggiano cheeses, then quickly tossed with the hot pasta and pancetta to create a silky, luxurious sauce. Finished with a generous grinding of black pepper and additional cheese, this dish represents the soul of Italian cooking where simple ingredients are transformed into something extraordinary through skilled execution.",
+          "price": 16.99,
+          "photo": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?semt=ais_hybrid&w=740"
+        },
+        {
+          "id": 604,
+          "name": "Mushroom Risotto",
+          "reference_name": "mushroom_risotto",
+          "description": "Experience the ultimate comfort food with our creamy mushroom risotto, made using traditional Italian techniques and the finest Arborio rice from the Po Valley. A medley of wild mushrooms including porcini, shiitake, and cremini are sautéed until golden and aromatic, then set aside while the risotto is prepared. The rice is toasted in butter and onions until translucent, then warm mushroom stock is added one ladle at a time while constantly stirring to release the rice's natural starches, creating the characteristic creamy texture. The reserved mushrooms are folded back in along with butter, fresh herbs, and Parmigiano-Reggiano cheese. Each spoonful delivers earthy mushroom flavors balanced by the rich, creamy rice in this labor-intensive dish that's worth every minute of preparation.",
+          "price": 18.99,
+          "photo": "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/indian-food-nutrition.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Indian",
+      "checked": false,
+      "dishes": [
+        {
+          "id": 701,
+          "name": "Butter Chicken",
+          "reference_name": "butter_chicken",
+          "description": "Discover the rich and complex flavors of our signature butter chicken, a beloved Indian dish that perfectly balances aromatic spices with creamy tomato sauce. Tender pieces of chicken are first marinated in yogurt and spices, then cooked in our traditional tandoor oven to achieve a slight char and smoky flavor. The chicken is then simmered in a luxurious sauce made from tomatoes, cream, butter, and a carefully balanced blend of spices including garam masala, fenugreek, and cardamom. The sauce is finished with a touch of honey and fresh cream, creating a velvety texture that coats each piece of chicken. Served with fragrant basmati rice and warm naan bread, this dish offers a perfect introduction to Indian cuisine's depth and sophistication.",
+          "price": 15.99,
+          "photo": "https://thumbs.dreamstime.com/b/unhealthy-fast-food-delivery-menu-featuring-assorted-burgers-cheeseburgers-nuggets-french-fries-soda-high-calorie-low-356045884.jpg"
+        },
+        {
+          "id": 702,
+          "name": "Biryani",
+          "reference_name": "biryani",
+          "description": "Embark on a culinary journey with our authentic biryani, a fragrant and flavorful rice dish that represents the pinnacle of Indian cuisine. Premium basmati rice is soaked and partially cooked with whole spices including cardamom, cinnamon, bay leaves, and star anise, infusing each grain with aromatic essence. Tender pieces of marinated meat or vegetables are layered with the rice and slow-cooked using the traditional dum method, where the pot is sealed and cooked over low heat, allowing the ingredients to steam in their own juices. The result is perfectly cooked rice with each grain separate and aromatic, combined with succulent meat or vegetables that have absorbed all the wonderful spices. Served with cooling raita and pickle, this one-pot wonder is a complete meal in itself.",
+          "price": 17.99,
+          "photo": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700,636"
+        },
+        {
+          "id": 703,
+          "name": "Tandoori Chicken",
+          "reference_name": "tandoori_chicken",
+          "description": "Experience the authentic flavors of North Indian cuisine with our tandoori chicken, marinated for hours in a special blend of yogurt and spices that tenderizes the meat while infusing it with incredible flavor. The chicken is coated in a mixture that includes yogurt, lemon juice, garlic, ginger, and a proprietary blend of spices including cumin, coriander, paprika, and garam masala, which gives the dish its characteristic red color and complex flavor profile. Cooked in our traditional clay tandoor oven at extremely high temperatures, the chicken develops a beautiful char on the outside while remaining juicy and tender inside. The intense heat of the tandoor creates a unique smoky flavor that cannot be replicated in conventional ovens. Served with mint chutney, sliced onions, and fresh naan bread.",
+          "price": 16.99,
+          "photo": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?semt=ais_hybrid&w=740"
+        },
+        {
+          "id": 704,
+          "name": "Palak Paneer",
+          "reference_name": "palak_paneer",
+          "description": "Enjoy the wholesome goodness of our palak paneer, a nutritious and delicious vegetarian dish that combines fresh spinach with soft cubes of homemade paneer cheese. Fresh spinach leaves are blanched and pureed with green chilies, ginger, and garlic to create a vibrant green base that's rich in vitamins and minerals. The spinach puree is then cooked with aromatic spices including cumin, coriander, turmeric, and garam masala, creating a flavorful sauce that's both healthy and satisfying. Cubes of fresh paneer cheese are gently folded into the spinach mixture, allowing them to absorb the flavors while maintaining their soft, creamy texture. Finished with a touch of cream and fresh herbs, this classic vegetarian dish is served with basmati rice and naan bread for a complete and satisfying meal.",
+          "price": 14.99,
+          "photo": "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/indian-food-nutrition.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Chinese",
+      "checked": false,
+      "dishes": [
+        {
+          "id": 801,
+          "name": "Sweet and Sour Pork",
+          "reference_name": "sweet_and_sour_pork",
+          "description": "Delight in the perfect balance of flavors with our sweet and sour pork, a classic Chinese dish that combines tender pieces of pork with vibrant vegetables in a glossy, flavorful sauce. Premium pork is cut into bite-sized pieces and coated in a light batter made from cornstarch and egg whites, then deep-fried until golden and crispy. The pork is then stir-fried with colorful bell peppers, pineapple chunks, and onions in a wok over high heat to maintain the vegetables' crisp texture. The signature sweet and sour sauce is made from rice vinegar, sugar, tomato sauce, and soy sauce, creating the perfect harmony of tangy and sweet flavors. Served over steamed jasmine rice, this dish offers a delightful contrast of textures and flavors that exemplifies the best of Chinese cuisine.",
+          "price": 16.99,
+          "photo": "https://thumbs.dreamstime.com/b/unhealthy-fast-food-delivery-menu-featuring-assorted-burgers-cheeseburgers-nuggets-french-fries-soda-high-calorie-low-356045884.jpg"
+        },
+        {
+          "id": 802,
+          "name": "Kung Pao Chicken",
+          "reference_name": "kung_pao_chicken",
+          "description": "Experience the bold and spicy flavors of Sichuan cuisine with our authentic Kung Pao chicken, a dish that perfectly balances heat, sweetness, and savory elements. Tender diced chicken is marinated in soy sauce, rice wine, and cornstarch before being quickly stir-fried in a blazing hot wok to seal in the juices. The chicken is then combined with roasted peanuts, dried red chilies, and fresh vegetables including bell peppers and celery, creating a symphony of textures and flavors. The signature sauce combines soy sauce, black vinegar, sugar, and Sichuan peppercorns, which provide a unique numbing sensation that's characteristic of authentic Sichuan cooking. The dish is finished with scallions and served over steamed rice, delivering a spicy kick that builds with each bite while the peanuts provide a satisfying crunch.",
+          "price": 15.99,
+          "photo": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chorizo-mozarella-gnocchi-bake-cropped-9ab73a3.jpg?quality=90&resize=700,636"
+        },
+        {
+          "id": 803,
+          "name": "Beef with Broccoli",
+          "reference_name": "beef_with_broccoli",
+          "description": "Savor the classic combination of tender beef and crisp broccoli in our traditional Chinese stir-fry, a dish that showcases the art of wok cooking and the importance of timing in Chinese cuisine. Premium beef sirloin is sliced against the grain and marinated in soy sauce, rice wine, and cornstarch to ensure maximum tenderness. The beef is quickly seared in a smoking hot wok to develop a beautiful caramelized exterior while keeping the interior tender and juicy. Fresh broccoli florets are blanched until bright green and crisp-tender, then stir-fried with the beef in a savory sauce made from oyster sauce, soy sauce, garlic, and ginger. The high heat of the wok creates the characteristic 'wok hei' or breath of the wok, imparting a subtle smoky flavor that elevates this simple dish. Served over steamed jasmine rice.",
+          "price": 17.99,
+          "photo": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg?semt=ais_hybrid&w=740"
+        },
+        {
+          "id": 804,
+          "name": "Fried Rice",
+          "reference_name": "fried_rice",
+          "description": "Enjoy our expertly crafted fried rice, a versatile Chinese staple that transforms simple ingredients into a satisfying and flavorful meal. Day-old jasmine rice is used to ensure the perfect texture, as the grains separate easily and don't become mushy during the stir-frying process. The rice is stir-fried in a blazing hot wok with beaten eggs that are scrambled and distributed throughout, creating silky ribbons of egg that coat the grains. Fresh vegetables including carrots, peas, and scallions add color, nutrition, and crunch to the dish. Your choice of protein - whether it's char siu pork, shrimp, chicken, or beef - is added and quickly heated through. The entire dish is seasoned with soy sauce, sesame oil, and white pepper, creating a harmonious blend of flavors and textures. Each grain of rice is perfectly coated and separated, with no clumping or mushiness, representing the skill required to master this seemingly simple dish.",
+          "price": 12.99,
+          "photo": "https://eduauraapublic.s3.ap-south-1.amazonaws.com/webassets/images/blogs/indian-food-nutrition.jpg"
+        }
+      ]
+    }
+  ]
+}
